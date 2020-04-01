@@ -51,6 +51,7 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -75,3 +76,6 @@ DerivedDataCache/*
 
 # Large files
 Content/_Main/Pointcloud/*
+
+# ProjectSettings
+ProjectSetting
